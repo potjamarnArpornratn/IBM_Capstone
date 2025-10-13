@@ -1,2 +1,2 @@
 # IBM_Capstone
-Repo for IBM Capstone course works
+Repo for IBM Data Science Capstone course works
